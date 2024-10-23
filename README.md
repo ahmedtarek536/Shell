@@ -126,6 +126,27 @@ Estimates file space usage.
 du path                        # Display disk usage of specified directory
 ```
 
+### `cls`: Clear Console
+
+clear screan from all text
+
+```bash
+cls                        
+```
+
+### `help`: Display All Commands
+
+Display all commands to help you know the commands
+```bash
+help
+```
+### `exisit`: Stop Shell
+
+stop shell from working
+
+```bash
+exisit
+```
 ---
 
 ## Process Management
