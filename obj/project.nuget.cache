@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JO2Dtq++k4ugc0VCOwPy8dPYSkhM5gGMJ6fe/KzQafPHheRK9UuExte5bParunjplLFT9nGGNImQZ7V0kaiN4g==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Shell\\Shell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\ssh.net\\2024.1.0\\ssh.net.2024.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
