@@ -1,6 +1,6 @@
 ### Linux Shell: Essential Commands Implementation**
 
-This project is a custom Linux shell that supports a set of essential Linux commands, handling file management, system operations, process management, networking, and text processing. The shell is designed to provide users with a streamlined command-line interface, replicating common Linux command behavior with additional functionalities such as viewing and writing files.
+This project is a custom shell that supports a set of essential commands, handling file management, system operations, process management, networking, and text processing. The shell is designed to provide users with a streamlined command-line interface, replicating common Linux command behavior with additional functionalities such as viewing and writing files.
 
 The shell offers the following key features:
 
@@ -13,7 +13,7 @@ The shell offers the following key features:
 
 ### Documentation
 
-This custom Linux shell supports a wide range of commands. Below is a detailed explanation of each command with their respective flags and usage examples.
+This custom shell supports a wide range of commands. Below is a detailed explanation of each command with their respective flags and usage examples.
 
 ---
 
@@ -233,4 +233,4 @@ ssh user@hostname password      # Connect to a remote host using SSH
 
 ---
 
-This documentation provides an overview of the essential commands supported by the custom Linux shell. Each command replicates familiar Linux functionality, making it easy to perform file management, system monitoring, and networking tasks directly from the shell interface.
+This documentation provides an overview of the essential commands supported by the custom shell. Each command replicates familiar Linux functionality, making it easy to perform file management, system monitoring, and networking tasks directly from the shell interface.
